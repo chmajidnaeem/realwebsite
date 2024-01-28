@@ -1,9 +1,19 @@
 import React from 'react'
-import Navbar from '../app/Components/Navbar'
+
+
+import Header from './Components/Header'
 const page = () => {
   return (
     <div>
-      <Navbar />
+    <Header />
+
+
+
+
+
+
+
+
     </div>
   )
 }
